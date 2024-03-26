@@ -165,7 +165,7 @@ body{
     font-weight: 700;
     margin-top: 10px;
 }
-@media  (min-width:0) and (max-width: 920px) {
+@media  (min-width:0) and (max-width: 1000px) {
     .card1{
         grid-area: 1 / 1 / 2 / 13;
     }
